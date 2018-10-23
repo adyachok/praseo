@@ -1,0 +1,10 @@
+groups:
+  - name_ua: Інтелект, Мишлення
+    name_en: Intellect, Thinking
+    id: 1
+  - name_ua: Емоції, Відчуття
+    name_en: Emotions, Feelings
+    id: 2
+  - name_ua: Сприйняття оточуючого світу, Оцінка дійсності
+    name_en: Perception of the world, Appraisal of the situation
+    id: 3
