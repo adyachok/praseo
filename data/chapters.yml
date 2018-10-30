@@ -11,3 +11,7 @@ chapters:
     name_ua: Нерозумний, божевільний, дивний
     name_en: A fool, madman, strange
     id: 3
+  - group_id: 1
+    name_ua: Вчити, вчитися
+    name_en: Learn
+    id: 4
