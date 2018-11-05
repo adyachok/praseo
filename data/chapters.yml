@@ -19,3 +19,7 @@ chapters:
     name_ua: Думати, звертати увагу. Антоніми.
     name_en: Think, pay attention. Antonyms.
     id: 5
+  - group_id: 1
+    name_ua: Знати, не знати
+    name_en: Know, not know
+    id: 6
