@@ -23,3 +23,11 @@ chapters:
     name_ua: Знати, не знати
     name_en: Know, not know
     id: 6
+  - group_id: 1
+    name_ua: Доказувати, сперечатися
+    name_en: Prove, argue
+    id: 7
+  - group_id: 1
+    name_ua: Приймати рішення, оцінювати
+    name_en: Take decision, estimate
+    id: 8
