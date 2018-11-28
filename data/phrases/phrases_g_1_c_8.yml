@@ -35,4 +35,27 @@ phrases:
     phrase_ua: викинути щось з голови
     example_en: I tried to get the idea out of my head.
     example_ua: Я старався викинути цю думку з голови.
-    
+  - phrase_en: to jump to conclusions
+    phrase_ua: робити передчасні висновки
+    example_en: You jump to conclusions without proper deduction.
+    example_ua: Ти робиш передчасні висновки без достатнього обгрунтування їх.
+  - phrase_en: to lay great store by smth.
+    phrase_ua: надавати велике значення чому-небудь
+    example_en: I never lay great store by rumours.
+    example_ua: Я не придаю великого значення чуткам.
+  - phrase_en: to lay little store by smth.
+    phrase_ua: не надавати великого значення
+    example_en: She lays little store by my love.
+    example_ua: Що для неї моє кохання.
+  - phrase_en: to leave nothing to chance
+    phrase_ua: не покладатися на волю випадку / виключити всяку випадковість
+    example_en: The NPP's are designed with a large margin of safrety to leave nothing to chance.
+    example_ua: Атомні електростанції проектуються з великим запасом міцності, щоби виключити всіляку випадковість.
+  - phrase_en: to leave smth. out of account
+    phrase_ua: втратити щось з уваги / не приймати до уваги / не рахуватися з чимось
+    example_en: He left out of account sundry little defects in estimating the flat.
+    example_ua: При оцінюванні квартири не приймав до уваги різні дрібні дефекти.
+  - phrase_en: to make light of smth. / smb.
+    phrase_ua: відноситися до чогось /  когось несерьйозно / недооцінювати / не сприймати серьйозно
+    example_en: She thought the best thing was to make light of the remark.
+    example_ua: Вона вирішила, що краще не сприймати серьйозно це зауваження.

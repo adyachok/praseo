@@ -31,3 +31,7 @@ chapters:
     name_ua: Приймати рішення, оцінювати
     name_en: Take decision, estimate
     id: 8
+  - group_id: 1
+    name_ua: Складнощі чи легкість розуміння
+    name_en: Difficulties or easy of understanding
+    id: 9
